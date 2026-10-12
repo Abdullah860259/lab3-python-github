@@ -16,6 +16,7 @@ def show_instructions():
     print("You can perform as many calculations as you want.")
     print("Only numbers are accepted as input (e.g. 5, -3, 2.5).")
     print("Type 'q' to quit the calculator.")
+    print("A new change is here to test the git commit and push functionality.")
     print("=" * 40)
 
 def take_input():
